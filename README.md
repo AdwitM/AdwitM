@@ -11,9 +11,12 @@ I am a Smart Contract Developer with a strong passion for building Decentralized
 * Web3 and Blockchain Research
 * Git
 
-### Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdwitM&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)<br>
-![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=NeroSensei&theme=tokyonight&langs_count=5)
+<table align = center>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AdwitM&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues" width="500"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=NeroSensei&theme=tokyonight&langs_count=3" width="500"></td>
+  </tr>
+</table>
 
 ### Let's Connect
 I am always open to collaborating on new projects and discussing the latest advancements in the blockchain industry. If you would like to connect with me, feel free to reach out via:  
