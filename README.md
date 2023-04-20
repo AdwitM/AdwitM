@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AdwitM.AdwitM)
 
-I am a Smart Contract Developer with a strong passion for building Decentralized Applications. I have been learning, building and investng in the DeFi and Crypto industry for about four years, during which I have gained extensive knowledge and experience about DeFi and Smart Contract Development using Solidity.
+I am a Smart Contract Developer with a strong passion for building Decentralized Applications. I have been learning, building and investing in the DeFi and Crypto industry for about four years, during which I have gained extensive knowledge and experience about DeFi and Smart Contract Development using Solidity.
 
 ### My Skills
 * Smart Contract ~ Solidity
