@@ -22,7 +22,6 @@ I am a Smart Contract Developer with a strong passion for building Decentralized
 I am always open to collaborating on new projects and discussing the latest advancements in the blockchain industry. If you would like to connect with me, feel free to reach out via:  
 
 * [LinkedIn](https://www.linkedin.com/in/adwitm/)
-* [Calendy]()
 
 
 <picture>
