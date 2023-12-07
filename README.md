@@ -13,8 +13,8 @@ I am a Smart Contract Developer with a strong passion for building Decentralized
 
 <table align = center>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AdwitM&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues" width="500"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=NeroSensei&theme=tokyonight&langs_count=3" width="500"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AdwitM&count_private=true&show_icons=true&theme=tokyonight&hide=stars" width="500"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=NeroSensei&theme=tokyonight&langs_count=4" width="500"></td>
   </tr>
 </table>
 
