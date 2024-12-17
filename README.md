@@ -8,7 +8,7 @@ recently to Sui Move as well. Always on the lookout for the next big yield oppor
 ### My Skills
 * Solana based SDKs and Rust
 * EVM based SDKs and Solidity
-* HTML/CSS/JS/JS
+* HTML/CSS/TS/JS
 * Web3 and Blockchain Research
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NeroSensei&theme=tokyonight&langs_count=4" width="500">
