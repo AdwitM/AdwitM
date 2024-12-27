@@ -8,6 +8,7 @@ recently to Sui Move as well. Always on the lookout for the next big yield oppor
 ### My Skills
 * Solana based SDKs and Rust
 * EVM based SDKs and Solidity
+* SUI based SDKs and Move
 * HTML/CSS/TS/JS
 * Web3 and Blockchain Research
 
